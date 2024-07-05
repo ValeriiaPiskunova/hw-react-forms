@@ -9,7 +9,7 @@ export default function Header() {
         <p>Залиш нам повідомлення, а ми відповімо якнайшвидше</p>
       </div>
       <img
-        src="/assets/form-image.png"
+        src="assets/form-image.png"
         alt="person with phone and flower"
         className="header__img"
       />
