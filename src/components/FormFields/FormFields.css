@@ -1,0 +1,26 @@
+input::placeholder,
+textarea::placeholder,
+label {
+    color: #6cca9d;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    display: flex;
+    margin-bottom: 5px;
+    border: none;
+    background-color: #f0fff6;
+    border-bottom: 1px solid #6cca9d;
+    border-radius: 4px;
+}
+
+.form__item {
+    width: 46%;
+    margin-bottom: 15px;
+}
+
+form :nth-child(4) {
+    width: 98%;
+}
